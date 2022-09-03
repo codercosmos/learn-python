@@ -61,20 +61,5 @@ while choice.lower() == "yes":
     elif nice == 5:
             print("Bye..... ")
             break
-        
-
-     
-        
 
 
-
-
-        
-        
-            
-            
-            
-            
-    
-    
-    
